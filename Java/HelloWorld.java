@@ -18,5 +18,5 @@ String[] args: This specifies the parameter that main accepts. It is an array of
 System.out.println("Hello World!");
 System: It is the name of Java utility class.
 out: It is an object which bwlongs to system class.
-println: It is utility method name, which is used to send any string to the console.
+println: It is utility method name, which is used to send any string to the console and then terminates the line.
 */

@@ -1,24 +1,24 @@
-class MyEmployee {
+class MyEmployee{
     private int id;
     private String name;
 
-    public String getName() {
+    public String getName(){
         return name;
     }
-    public void setName(String n) {
+    public void setName(String n){
         name = n;
     }
 
-    public int getId() {
+    public int getId(){
         return id;
     }
-    public void setId(int i) {
+    public void setId(int i){
         id = i;
     }
 }
 
-public class Main {
-    public static void main(String[] args) {
+public class Main{
+    public static void main(String[] args){
         MyEmployee aryan = new MyEmployee();
         aryan.setId(911); // Use setter to set the value
         aryan.setName("aryan"); // Use setter to set the value

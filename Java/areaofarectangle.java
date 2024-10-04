@@ -12,7 +12,7 @@ class Area{
     }
     // Class Close
     
-    // Main Method
+    // Main Method(function)
     public static void main(String[] args){
         Scanner s = new Scanner(System.in);
         
